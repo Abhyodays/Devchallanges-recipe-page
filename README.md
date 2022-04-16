@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://abhyodays.github.io/Devchallenges-interior_consultant/">
+    <a href="https://abhyodays.github.io/Devchallanges-recipe-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Abhyodays/Devchallenges-interior_consultant.git">
+    <a href="https://github.com/Abhyodays/Devchallanges-recipe-page.git">
       Solution
     </a>
     <span> | </span>
@@ -42,8 +42,8 @@ In this project I learnt responsive design using Flex.
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML]
-- [CSS]
+- HTML
+- CSS
 
 ## Features
 
